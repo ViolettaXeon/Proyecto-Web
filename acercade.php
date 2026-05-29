@@ -29,7 +29,7 @@
 
             <!-- Imagen -->
             <img 
-                src="img\violetta.jfif"
+                src="https://drive.google.com/file/d/1PUFwa-yDV1MXyvJEhPuSCcyiJvDoNazc/view?usp=drive_link"
                 alt="Violetta"
                 style="
                     width: 180px;
