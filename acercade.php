@@ -29,7 +29,7 @@
 
             <!-- Imagen -->
             <img 
-                src="img/violetta.jfif"
+                src="./img/violetta.jfif"
                 alt="Violetta"
                 style="
                     width: 180px;

@@ -14,12 +14,12 @@
 
     <main>
         <section class="menu-periodos">
-            <button class="btn" onclick="mostrarDiagrama('Hola Mundo', 'img/holamundo.png')">1. Hola Mundo</button>
-            <button class="btn" onclick="mostrarDiagrama('Sumar 2 Números', 'img/sumardosnumeros.png')">2. Sumar Números</button>
-            <button class="btn" onclick="mostrarDiagrama('Positivo o Negativo', 'img/positivonegativo.png')">3. Positivo/Negativo</button>
-            <button class="btn" onclick="mostrarDiagrama('División Segura', 'img/dividir.png')">4. División Validada</button>
-            <button class="btn" onclick="mostrarDiagrama('Ciclo 1 hasta N', 'img/1_n.png')">5. Ciclo 1 a N</button>
-            <button class="btn" onclick="mostrarDiagrama('Ciclo 100 al 0', 'img/100_0.png')">6. Ciclo 100 a 0</button>
+            <button class="btn" onclick="mostrarDiagrama('Hola Mundo', './img/holamundo.png')">1. Hola Mundo</button>
+            <button class="btn" onclick="mostrarDiagrama('Sumar 2 Números', './img/sumardosnumeros.png')">2. Sumar Números</button>
+            <button class="btn" onclick="mostrarDiagrama('Positivo o Negativo', './img/positivonegativo.png')">3. Positivo/Negativo</button>
+            <button class="btn" onclick="mostrarDiagrama('División Segura', './img/dividir.png')">4. División Validada</button>
+            <button class="btn" onclick="mostrarDiagrama('Ciclo 1 hasta N', './img/1_n.png')">5. Ciclo 1 a N</button>
+            <button class="btn" onclick="mostrarDiagrama('Ciclo 100 al 0', './img/100_0.png')">6. Ciclo 100 a 0</button>
         </section>
 
         <section class="contenedor-diagrama">
